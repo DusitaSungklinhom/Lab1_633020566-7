@@ -5,3 +5,7 @@ My personal quote: อย่ากลัวที่จะทำตามคว�
 Don't wait for something outside of yourself to make your dream
 comes true.
 
+<<<<<<< HEAD
+=======
+Semester 2/2565
+>>>>>>> MyBranch
